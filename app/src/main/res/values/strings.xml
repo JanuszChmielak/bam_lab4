@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="save_button">Zapisz</string>
+    <string name="load_button">Odczytaj</string>
+    <string name="input_hint">Wpisz dane</string>
+    <string name="output_hint">Wynik odczytu</string>
+</resources>
